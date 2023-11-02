@@ -6,3 +6,6 @@ log/
 
 # Ignore ignore.txt
 ignore.txt
+
+# Ignore readme.txt
+readme.txt
